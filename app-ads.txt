@@ -209,6 +209,39 @@ playwire.com, 1018531, RESELLER
 rubiconproject.com, 28341, RESELLER, 0bfd66d529a55807
 triplelift.com, 14705, RESELLER, 6c33edb13117fd86
 triplelift.com, 14823, RESELLER, 6c33edb13117fd86
+media.net, 8CU5L226O, RESELLER
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+media.net, 8CUSC3UJ7, RESELLER
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+video.unrulymedia.com, 947824792, RESELLER
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+bigo.sg, adidz3dyfp, RESELLER
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+xandr.com, 7353, RESELLER
+media.net, 8CU9B72O6, RESELLER
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 741650, RESELLER
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+smartclip.net, 15458, RESELLER
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+media.net, 8CUUQ286L, RESELLER
+media.net, 8CAXEGFDP, RESELLER
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+triplelift.com, 14705-EB, RESELLER
+thunder-monetize.com, 2158729563, RESELLER
 
 # AdMob
 google.com, pub-3626856085634515, DIRECT, f08c47fec0942fa0
