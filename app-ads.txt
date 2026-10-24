@@ -242,6 +242,9 @@ pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
 bold-win.com, 1013, RESELLER, 71746737d0bab951
 triplelift.com, 14705-EB, RESELLER
 thunder-monetize.com, 2158729563, RESELLER
+start.io, 131192070, RESELLER
+monetrix.ai, 10761, RESELLER
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 
 # AdMob
 google.com, pub-3626856085634515, DIRECT, f08c47fec0942fa0
